@@ -93,4 +93,10 @@ function renderCards(data, list) {
 }
 
 renderCards(listPaintings, paintingsList);
+renderCards(listPaintings, paintingsList);
+renderCards(listPaintings, paintingsList);
+renderCards(listPaintings, paintingsList);
+renderCards(listFigures, figuresList);
+renderCards(listFigures, figuresList);
+renderCards(listFigures, figuresList);
 renderCards(listFigures, figuresList);
