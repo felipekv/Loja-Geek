@@ -71,7 +71,7 @@ function renderCards(data, list) {
     const cardTitleDiv = document.createElement("div");
     cardTitleDiv.classList.add("cardTitleDiv");
 
-    const cardTitle = document.createElement("p");
+    const cardTitle = document.createElement("h3");
     cardTitle.classList.add("cardTitle");
     cardTitle.innerHTML = `${data[i].name}`;
 

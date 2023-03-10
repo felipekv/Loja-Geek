@@ -128,8 +128,11 @@ main{
 }
 
 .cardImage{
+    width: 207px;
     height: 100%;
-    object-fit: cover;
+    object-fit: fill;
+    border: 2px transparent;
+    border-radius: 15px 15px 0px 0px;
 }
 
 .cardTitle{
